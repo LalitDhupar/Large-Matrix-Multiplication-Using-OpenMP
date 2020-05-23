@@ -10,7 +10,7 @@ I have implemented Strassen algorithm in OpenMP for the large matrix multiplicat
 ![alt text](http://www.brainkart.com/media/extra/fm3moQv.jpg)
 
 # Results and Performance matrix:
-when the matrix size was small both the Sequential and Strassen algorithms took almost similar time to multiply the matrices. However, when the matrix size increased Strassen algorithm outperformed the sequential algorithm significantly.
+When the matrix size was small both the Sequential and Strassen algorithms took almost similar time to multiply the matrices. However, when the matrix size increased Strassen algorithm outperformed the sequential algorithm significantly.
 
 <table class="tg">
   <tr>
